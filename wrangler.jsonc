@@ -4,10 +4,18 @@
   "account_id": "d711a4b89a00f70e0a494f901fcff216",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-07-02",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    {
+      "binding": "WORKER_SELF_REFERENCE",
+      "service": "chasetech-website"
+    }
+  ],
   "observability": {
     "enabled": true
-  },
-  "compatibility_flags": [
-    "nodejs_compat"
-  ]
+  }
 }
