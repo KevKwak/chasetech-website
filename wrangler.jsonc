@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "chasetech-website",
+  "account_id": "d711a4b89a00f70e0a494f901fcff216",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-07-02",
+  "observability": {
+    "enabled": true
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}

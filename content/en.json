@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products & Services",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "HK ChaseTech Power Trading Limited",
+      "subtitle": "Connecting Global Tech, Powering Infinite Possibilities",
+      "description": "Specializing in international trade of electronic products, components and raw materials, EMS manufacturing, brand agency and technical consulting services.",
+      "cta": "Learn More"
+    },
+    "services": {
+      "title": "Core Business",
+      "items": [
+        {
+          "icon": "Cpu",
+          "title": "EMS Manufacturing",
+          "description": "Professional PCBA and complete unit assembly services, covering consumer electronics, industrial control, communications and more."
+        },
+        {
+          "icon": "Zap",
+          "title": "Custom Power Supply",
+          "description": "Hysic brand AI server rack-mount power supplies, PV energy storage inverters, programmable DC power supplies and high-power energy conversion solutions."
+        },
+        {
+          "icon": "Layers",
+          "title": "Brand Agency",
+          "description": "Exclusive agent of Astech and other renowned brands, specializing in high-end adhesive tape materials for electronic screen bonding and cushioning protection."
+        }
+      ]
+    },
+    "about": {
+      "title": "About ChaseTech Power",
+      "description": "HK ChaseTech Power Trading Limited is a professional enterprise established in Hong Kong, specializing in international trade, import and export of electronic products and related businesses. We are committed to providing global customers with high-quality electronic components, raw materials, professional manufacturing services, brand agency and technical consulting.",
+      "link": "Learn More"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Rooted in International Trade, Connecting Global Technology",
+    "description": "HK ChaseTech Power Trading Limited is a professional enterprise established in Hong Kong SAR, specializing in international trade, import and export of electronic products and related businesses.",
+    "highlights": [
+      {
+        "title": "Global Vision",
+        "description": "Based in Hong Kong, serving worldwide. Years of deep expertise in international electronics trade with rich industry resources and supply chain advantages."
+      },
+      {
+        "title": "Quality Assurance",
+        "description": "Strictly selecting suppliers and partners to ensure all products and services meet international quality standards and customer requirements."
+      },
+      {
+        "title": "Flexible Customization",
+        "description": "Flexible manufacturing services from prototype small orders to mass production, supporting OEM/ODM cooperation models."
+      },
+      {
+        "title": "Professional Service",
+        "description": "Equipped with professional teams providing full-cycle service from product selection, technical consultation to after-sales support."
+      }
+    ]
+  },
+  "products": {
+    "title": "Products & Services",
+    "subtitle": "Three core business areas to meet diverse electronics industry needs",
+    "categories": [
+      {
+        "slug": "ems",
+        "title": "EMS Manufacturing",
+        "icon": "Cpu",
+        "description": "Professional Electronics Manufacturing Services providing full-process PCBA, SMT and complete unit assembly.",
+        "features": ["PCBA (SMT)", "Complete Unit Assembly", "Flexible Production Line", "Prototype to Mass Production"],
+        "items": [
+          { "name": "PCBA Products", "products": "4G/5G Phones, Laptops, Desktop Motherboards, POS Machines, TWS Earbuds" },
+          { "name": "Tablets", "products": "Lenovo Tablets, NOKIA Tablets, Seewo Learning Tablets" },
+          { "name": "POS Machines", "products": "Handheld Financial POS Machines (sunmi)" },
+          { "name": "Smartphones", "products": "Smart Mobile Phones" },
+          { "name": "Other Electronics", "products": "Smart Lamps, TV Sticks, 5G MiFi / 5G CPE" },
+          { "name": "Smart Locks", "products": "One-Grip Smart Locks, CNC Ultra-Thin, 3D Face Recognition Smart Locks" }
+        ]
+      },
+      {
+        "slug": "hysic",
+        "title": "Hysic Custom Power Supply",
+        "icon": "Zap",
+        "description": "Shenzhen HYSIC Semiconductor Energy Technology Co., Ltd. is a power electronics platform under Dean Group, focusing on high-power energy conversion technology to provide reliable and efficient power and energy storage solutions globally.",
+        "features": ["Core Self-R&D Technology", "Professional Performance Lab", "Flexible Mass Production", "Global Standard Design"],
+        "products": [
+          {
+            "series": "HYAP Series",
+            "name": "AI Server Rack-Mount Power Supply",
+            "定位": "Data centers, AI computing clusters, supercomputing rooms — 7×24h core power equipment",
+            "advantage": "Ultra-high power density, 80PLUS Titanium efficiency (96%), wide voltage input, strong EMI protection",
+            "spec": "3200W / 1U Rack / M-CRPS Standard / N+1/N+N Redundant Hot-Swap",
+            "application": "Data center servers, AI computing hosts, network switches, edge computing devices"
+          },
+          {
+            "series": "HYBP Series",
+            "name": "PV & Energy Storage Bi-directional Inverter",
+            "定位": "Commercial & industrial PV, large energy storage power plants, grid-side converter systems",
+            "advantage": "Ultra-high conversion efficiency, intelligent bidirectional dispatch, modular flexible expansion, wide temperature range",
+            "spec": "125kW (Max 137.5kW) / Indoor & Outdoor Cabinet Options",
+            "application": "Light storage microgrid, backup power, construction sites, oilfield exploitation"
+          },
+          {
+            "series": "HYCP Series",
+            "name": "Programmable DC Power Supply",
+            "定位": "R&D laboratories, production line reliability testing, new energy component testing",
+            "advantage": "Wide-range auto-ranging, CV/CC/CP three-mode adaptive, high-precision programmable control",
+            "spec": "1100W/1600W / Output 32V~150V / Half-2U Rack",
+            "application": "ATE automated testing, laboratory R&D, semiconductor and power electronics testing"
+          }
+        ]
+      },
+      {
+        "slug": "astech",
+        "title": "Astech Adhesive Tape",
+        "icon": "Layers",
+        "description": "Astech quick-release mesh foam adhesive tape, made with PET substrate through special foaming process, featuring excellent adhesion, cushioning and air-venting performance. Suitable for electronic screen bonding and cushioning protection.",
+        "features": ["Excellent light-blocking effect", "Hexagonal mesh air-vent structure", "Anti-stick coating design", "Easy processing and production"],
+        "spec": [
+          { "项目": "Total Thickness", "数值": "0.140mm ±10%" },
+          { "项目": "Adhesion", "数值": "≥1000 g/25mm" },
+          { "项目": "Foam Density", "数值": "0.55 g/cm³ ±15%" },
+          { "项目": "25% CFD", "数值": "≤0.25 MPa" },
+          { "项目": "Specification", "数值": "1000mm × 100m/roll" },
+          { "项目": "Shelf Life", "数值": "1 year from date of receipt" }
+        ],
+        "application": "Electronic screen bonding and cushioning protection"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We look forward to building a business relationship with you",
+    "address": {
+      "label": "Company Address",
+      "value": "Unit 903A, 9/F., Cameron Commercial Centre, 458-468 Hennessy Road, Causeway Bay, Hong Kong"
+    },
+    "email": { "label": "Email", "value": "info@chasetechpower.com" },
+    "phone": { "label": "Phone", "value": "Pending application" },
+    "fax": { "label": "Fax", "value": "Pending application" }
+  },
+  "footer": {
+    "copyright": "© 2024 HK ChaseTech Power Trading Limited. All Rights Reserved.",
+    "tagline": "Connecting Global Tech, Powering Infinite Possibilities"
+  }
+}

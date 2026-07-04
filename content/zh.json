@@ -1,0 +1,149 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品与服务",
+    "contact": "联系我们"
+  },
+  "home": {
+    "hero": {
+      "title": "香港追科動力貿易有限公司",
+      "subtitle": "链接全球科技，驱动无限可能",
+      "description": "专注国际电子产品贸易、零部件供应、原材料进出口、委托加工与设计、品牌代理及技术咨询服务",
+      "cta": "了解更多"
+    },
+    "services": {
+      "title": "核心业务",
+      "items": [
+        {
+          "icon": "Cpu",
+          "title": "EMS代加工",
+          "description": "专业PCBA贴片与整机组装服务，覆盖消费电子、工控、通信等全品类产品制造"
+        },
+        {
+          "icon": "Zap",
+          "title": "定制电源",
+          "description": "Hysic品牌AI服务器电源、光伏储能逆变器、可编程直流电源等大功率电能转换解决方案"
+        },
+        {
+          "icon": "Layers",
+          "title": "品牌代理",
+          "description": "Astech等知名品牌代理，专注于电子屏幕粘结与缓冲保护的高端胶带材料"
+        }
+      ]
+    },
+    "about": {
+      "title": "关于追科動力",
+      "description": "香港追科動力貿易有限公司成立于香港，专注于国际电子产品贸易进出口及相关业务。我们致力于为全球客户提供高品质的电子元器件、零部件、原材料供应，以及专业的委托加工、品牌代理和技术咨询服务。",
+      "link": "了解更多"
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "深耕国际贸易，连接全球科技产业",
+    "description": "香港追科動力貿易有限公司（HK ChaseTech Power Trading Limited）成立于香港特别行政区，是一家专注于国际电子产品贸易进出口及相关业务的专业企业。",
+    "highlights": [
+      {
+        "title": "国际视野",
+        "description": "立足香港，服务全球，深耕电子产品国际贸易多年，积累了丰富的行业资源和供应链优势。"
+      },
+      {
+        "title": "品质保障",
+        "description": "严格筛选供应商与合作厂商，确保所提供的产品与服务符合国际质量标准与客户要求。"
+      },
+      {
+        "title": "灵活定制",
+        "description": "提供从样品小单到大规模量产的柔性制造服务，支持 OEM/ODM 多种合作模式。"
+      },
+      {
+        "title": "专业服务",
+        "description": "配备专业团队，提供从产品选型、技术咨询到售后支持的全程服务。"
+      }
+    ]
+  },
+  "products": {
+    "title": "产品与服务",
+    "subtitle": "三大核心业务板块，满足多元化电子产业需求",
+    "categories": [
+      {
+        "slug": "ems",
+        "title": "EMS代加工",
+        "icon": "Cpu",
+        "description": "专业电子制造服务（Electronics Manufacturing Services），提供PCBA贴片、SMT工艺及整机组装的全流程制造服务。",
+        "features": ["PCBA贴片（SMT）", "整机组装", "柔性产线", "样品小单与大批量生产"],
+        "items": [
+          { "name": "PCBA类", "products": "4G/5G手机、笔记本、台式机主板、POS机、TWS蓝牙耳机" },
+          { "name": "整机·平板", "products": "Lenovo平板、NOKIA平板、Seewo学习平板" },
+          { "name": "整机·POS机", "products": "手持金融POS机（sunmi）" },
+          { "name": "整机·手机", "products": "智能手机" },
+          { "name": "整机·其他", "products": "智能台灯、智能电视棒、5G MiFi / 5G CPE" },
+          { "name": "智能锁类", "products": "一握开智能锁、CNC超薄精雕、3D人脸猫眼智能锁" }
+        ]
+      },
+      {
+        "slug": "hysic",
+        "title": "Hysic定制电源",
+        "icon": "Zap",
+        "description": "深圳海世英半导体能源科技有限公司（HYSIC）隶属迪安电工集团旗下电力电子平台，专注大功率电能转换技术，为全球客户提供高可靠性、高能效的电源与储能解决方案。",
+        "features": ["自主核心技术", "专业性能实验室", "柔性规模化产线", "全球化通用设计"],
+        "products": [
+          {
+            "series": "HYAP系列",
+            "name": "AI服务器机架电源",
+            "定位": "数据中心、AI算力集群、超算机房 7×24h 供电核心设备",
+            "advantage": "超高功率密度、80PLUS 钛金能效（96%）、宽电压输入、强电磁干扰防护",
+            "spec": "3200W / 1U机架 / M-CRPS标准 / N+1/N+N 冗余热插拔",
+            "application": "数据中心服务器、AI计算主机、网络交换机、边缘计算设备"
+          },
+          {
+            "series": "HYBP系列",
+            "name": "光伏储能双向大功率逆变器",
+            "定位": "工商商业光伏、大型储能电站、电网侧变流系统",
+            "advantage": "超高转换效率、智能双向调度、模块化灵活拓展、宽温域工作",
+            "spec": "125kW（最大137.5kW）/ 室内室外柜式可选",
+            "application": "光储微电网、备用电源、施工现场、油田开采"
+          },
+          {
+            "series": "HYCP系列",
+            "name": "可编程直流电源",
+            "定位": "研发实验室、产线可靠性测试、新能源零部件检测",
+            "advantage": "宽范围自动量程、CV/CC/CP三模式自适应、高精度程控",
+            "spec": "1100W/1600W / 输出电压 32V~150V / 半2U机架",
+            "application": "ATE自动化测试、实验室研发、半导体与电力电子测试"
+          }
+        ]
+      },
+      {
+        "slug": "astech",
+        "title": "Astech胶带",
+        "icon": "Layers",
+        "description": "Astech品牌快消网格泡棉胶带，以PET基材为载体，经特殊发泡工艺制成，具有优异的粘接性、缓冲性和排气性能，适用于电子屏幕的粘结和缓冲保护用途。",
+        "features": ["良好遮光效果", "六边形网格排气结构", "防粘涂层设计", "便于加工生产"],
+        "spec": [
+          { "项目": "总厚度", "数值": "0.140mm ±10%" },
+          { "项目": "粘着力", "数值": "≥1000 g/25mm" },
+          { "项目": "泡棉密度", "数值": "0.55 g/cm³ ±15%" },
+          { "项目": "25%压缩力", "数值": "≤0.25 MPa" },
+          { "项目": "规格", "数值": "1000mm × 100m/卷" },
+          { "项目": "存储期", "数值": "自收到货物起一年" }
+        ],
+        "application": "电子屏幕粘结与缓冲保护"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "期待与您建立合作关系",
+    "address": {
+      "label": "公司地址",
+      "value": "Unit 903A, 9/F., Cameron Commercial Centre, 458-468 Hennessy Road, Causeway Bay, Hong Kong\n香港铜锣湾轩尼诗道458-468号金玛商业中心9楼903A室"
+    },
+    "email": { "label": "企业邮箱", "value": "info@chasetechpower.com" },
+    "phone": { "label": "电话", "value": "待申请" },
+    "fax": { "label": "传真", "value": "待申请" }
+  },
+  "footer": {
+    "copyright": "© 2024 HK ChaseTech Power Trading Limited. All Rights Reserved.",
+    "tagline": "链接全球科技，驱动无限可能"
+  }
+}
